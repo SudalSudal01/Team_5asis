@@ -5,6 +5,8 @@
 - 팀 원본: [https://github.com/PSK6262/Team_5asis](https://github.com/PSK6262/Team_5asis)
 - 개인 GitHub: [SudalSudal01](https://github.com/SudalSudal01)
 
+- 팀 개발 기간: 2026.09.15 ~ 2026.10.14 (2026.10.13 기준 종료 예정)
+- 팀 인원: 4명
 - 본인 담당: **메인 대시보드 · Steam API 연동 · 결과 발표**
 - 기술: Java 11, Spring MVC, JSP, MyBatis, Oracle, RestTemplate, Steam Store API
 - 팀 프로젝트이며 다른 구성원의 로그인·방송 API 등 담당 기능을 개인 기여로 표현하지 않습니다.
